@@ -1,0 +1,11 @@
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\bin\Debug\RedemptionBuddyDesktopVersion.exe.config
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\bin\Debug\RedemptionBuddyDesktopVersion.exe
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\bin\Debug\RedemptionBuddyDesktopVersion.pdb
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\obj\Debug\RedemptionBuddyDesktopVersion.Form1.resources
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\obj\Debug\RedemptionBuddyDesktopVersion.Properties.Resources.resources
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\obj\Debug\RedemptionBuddyDesktopVersion.csproj.GenerateResource.Cache
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\obj\Debug\RedemptionBuddyDesktopVersion.exe
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\obj\Debug\RedemptionBuddyDesktopVersion.pdb
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\bin\Debug\Newtonsoft.Json.dll
+c:\users\ojt\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OJT\documents\visual studio 2015\Projects\RedemptionBuddyDesktopVersion\RedemptionBuddyDesktopVersion\obj\Debug\RedemptionBuddyDesktopVersion.FacebookGrabber.resources
